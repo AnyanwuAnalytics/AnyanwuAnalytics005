@@ -1,6 +1,5 @@
 ElectroMetric Sales & Customer Behavior Dashboard, 2023–2024
 <img width="617" height="299" alt="Screenshot 2026-11-11 182449" src="https://github.com/user-attachments/assets/20bfdf27-ed53-4113-aab7-4b7d5b49fde9" />
-             Understanding how customers buy, pay, and engage across the ElectroMetric sales ecosystem
 
 Introduction
 
